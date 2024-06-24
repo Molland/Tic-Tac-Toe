@@ -164,7 +164,279 @@ namespace Tic_Tac_Toe
                 num++;
             }
 
-            if (num == 1)
+            if (button1.Text == button4.Text && button4.Text == button7.Text)
+            {
+                if (button1.Text != "")
+                {
+                    if (isDraw == false)
+                    {
+                        if (player == 1)
+                        {
+                            score_player1++;
+
+                            MessageBox.Show("Победил Игрок 1!");
+
+                            label9.Text = score_player1.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                        else if (player == 0)
+                        {
+                            score_player2++;
+
+                            MessageBox.Show("Победил Игрок 2!");
+
+                            label8.Text = score_player2.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                    }
+                }
+            }
+
+            if (button2.Text == button5.Text && button5.Text == button8.Text)
+            {
+                if (button2.Text != "")
+                {
+                    if (isDraw == false)
+                    {
+                        if (player == 1)
+                        {
+                            score_player1++;
+
+                            MessageBox.Show("Победил Игрок 1!");
+
+                            label9.Text = score_player1.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                        else if (player == 0)
+                        {
+                            score_player2++;
+
+                            MessageBox.Show("Победил Игрок 2!");
+
+                            label8.Text = score_player2.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                    }
+                }
+            }
+
+            if (button3.Text == button6.Text && button6.Text == button9.Text)
+            {
+                if (button3.Text != "")
+                {
+                    if (isDraw == false)
+                    {
+                        if (player == 1)
+                        {
+                            score_player1++;
+
+                            MessageBox.Show("Победил Игрок 1!");
+
+                            label9.Text = score_player1.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                        else if (player == 0)
+                        {
+                            score_player2++;
+
+                            MessageBox.Show("Победил Игрок 2!");
+
+                            label8.Text = score_player2.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                    }
+                }
+            }
+
+            if (button1.Text == button2.Text && button2.Text == button3.Text)
+            {
+                if (button1.Text != "")
+                {
+                    if (isDraw == false)
+                    {
+                        if (player == 1)
+                        {
+                            score_player1++;
+
+                            MessageBox.Show("Победил Игрок 1!");
+
+                            label9.Text = score_player1.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                        else if (player == 0)
+                        {
+                            score_player2++;
+
+                            MessageBox.Show("Победил Игрок 2!");
+
+                            label8.Text = score_player2.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                    }
+                }
+            }
+
+            if (button4.Text == button5.Text && button5.Text == button6.Text)
+            {
+                if (button4.Text != "")
+                {
+                    if (isDraw == false)
+                    {
+                        if (player == 1)
+                        {
+                            score_player1++;
+
+                            MessageBox.Show("Победил Игрок 1!");
+
+                            label9.Text = score_player1.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                        else if (player == 0)
+                        {
+                            score_player2++;
+
+                            MessageBox.Show("Победил Игрок 2!");
+
+                            label8.Text = score_player2.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                    }
+                }
+            }
+
+            if (button7.Text == button8.Text && button8.Text == button9.Text)
+            {
+                if (button7.Text != "")
+                {
+                    if (isDraw == false)
+                    {
+                        if (player == 1)
+                        {
+                            score_player1++;
+
+                            MessageBox.Show("Победил Игрок 1!");
+
+                            label9.Text = score_player1.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                        else if (player == 0)
+                        {
+                            score_player2++;
+
+                            MessageBox.Show("Победил Игрок 2!");
+
+                            label8.Text = score_player2.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                    }
+                }
+            }
+
+            if (button1.Text == button5.Text && button5.Text == button9.Text)
+            {
+                if (button1.Text != "")
+                {
+                    if (isDraw == false)
+                    {
+                        if (player == 1)
+                        {
+                            score_player1++;
+
+                            MessageBox.Show("Победил Игрок 1!");
+
+                            label9.Text = score_player1.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                        else if (player == 0)
+                        {
+                            score_player2++;
+
+                            MessageBox.Show("Победил Игрок 2!");
+
+                            label8.Text = score_player2.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                    }
+                }
+            }
+
+            if (button3.Text == button5.Text && button5.Text == button7.Text)
+            {
+                if (button3.Text != "")
+                {
+                    if (isDraw == false)
+                    {
+                        if (player == 1)
+                        {
+                            score_player1++;
+
+                            MessageBox.Show("Победил Игрок 1!");
+
+                            label9.Text = score_player1.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                        else if (player == 0)
+                        {
+                            score_player2++;
+
+                            MessageBox.Show("Победил Игрок 2!");
+
+                            label8.Text = score_player2.ToString();
+
+                            player = 3;
+
+                            ButtonEnabled_False();
+                        }
+                    }
+                }
+            }
+
+            if (num < 10)
             {
                 if ((button1.Text == button2.Text && button2.Text == button3.Text && button1.Text != "") ||
                     (button4.Text == button5.Text && button5.Text == button6.Text && button4.Text != "") ||
@@ -189,246 +461,15 @@ namespace Tic_Tac_Toe
                 }
             }
 
-            if (isDraw == false && num == 1)
+            if (isDraw == true && player != 3 || num == 0 && player != 3)
             {
                 MessageBox.Show("Ничья!");
 
                 ButtonEnabled_False();
             }
 
-            if (button1.Text == button4.Text && button4.Text == button7.Text)
-            {
-                if (button1.Text != "")
-                {
-                    if (isDraw == false)
-                    {
-                        if (player == 1)
-                        {
-                            score_player1++;
-
-                            MessageBox.Show("Победил Игрок 1!");
-
-                            label9.Text = score_player1.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                        else if (player == 0)
-                        {
-                            score_player2++;
-
-                            MessageBox.Show("Победил Игрок 2!");
-
-                            label8.Text = score_player2.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                    }
-                }
-            }
-            if (button2.Text == button5.Text && button5.Text == button8.Text)
-            {
-                if (button2.Text != "")
-                {
-                    if (isDraw == false)
-                    {
-                        if (player == 1)
-                        {
-                            score_player1++;
-
-                            MessageBox.Show("Победил Игрок 1!");
-
-                            label9.Text = score_player1.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                        else if (player == 0)
-                        {
-                            score_player2++;
-
-                            MessageBox.Show("Победил Игрок 2!");
-
-                            label8.Text = score_player2.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                    }
-                }
-            }
-            if (button3.Text == button6.Text && button6.Text == button9.Text)
-            {
-                if (button3.Text != "")
-                {
-                    if (isDraw == false)
-                    {
-                        if (player == 1)
-                        {
-                            score_player1++;
-
-                            MessageBox.Show("Победил Игрок 1!");
-
-                            label9.Text = score_player1.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                        else if (player == 0)
-                        {
-                            score_player2++;
-
-                            MessageBox.Show("Победил Игрок 2!");
-
-                            label8.Text = score_player2.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                    }
-                }
-            }
-            if (button1.Text == button2.Text && button2.Text == button3.Text)
-            {
-                if (button1.Text != "")
-                {
-                    if (isDraw == false)
-                    {
-                        if (player == 1)
-                        {
-                            score_player1++;
-
-                            MessageBox.Show("Победил Игрок 1!");
-
-                            label9.Text = score_player1.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                        else if (player == 0)
-                        {
-                            score_player2++;
-
-                            MessageBox.Show("Победил Игрок 2!");
-
-                            label8.Text = score_player2.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                    }
-                }
-            }
-            if (button4.Text == button5.Text && button5.Text == button6.Text)
-            {
-                if (button4.Text != "")
-                {
-                    if (isDraw == false)
-                    {
-                        if (player == 1)
-                        {
-                            score_player1++;
-
-                            MessageBox.Show("Победил Игрок 1!");
-
-                            label9.Text = score_player1.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                        else if (player == 0)
-                        {
-                            score_player2++;
-
-                            MessageBox.Show("Победил Игрок 2!");
-
-                            label8.Text = score_player2.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                    }
-                }
-            }
-            if (button7.Text == button8.Text && button8.Text == button9.Text)
-            {
-                if (button7.Text != "")
-                {
-                    if (isDraw == false)
-                    {
-                        if (player == 1)
-                        {
-                            score_player1++;
-
-                            MessageBox.Show("Победил Игрок 1!");
-
-                            label9.Text = score_player1.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                        else if (player == 0)
-                        {
-                            score_player2++;
-
-                            MessageBox.Show("Победил Игрок 2!");
-
-                            label8.Text = score_player2.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                    }
-                }
-            }
-            if (button1.Text == button5.Text && button5.Text == button9.Text)
-            {
-                if (button1.Text != "")
-                {
-                    if (isDraw == false)
-                    {
-                        if (player == 1)
-                        {
-                            score_player1++;
-
-                            MessageBox.Show("Победил Игрок 1!");
-
-                            label9.Text = score_player1.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                        else if (player == 0)
-                        {
-                            score_player2++;
-
-                            MessageBox.Show("Победил Игрок 2!");
-
-                            label8.Text = score_player2.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                    }
-                }
-            }
-            if (button3.Text == button5.Text && button5.Text == button7.Text)
-            {
-                if (button3.Text != "")
-                {
-                    if (isDraw == false)
-                    {
-                        if (player == 1)
-                        {
-                            score_player1++;
-
-                            MessageBox.Show("Победил Игрок 1!");
-
-                            label9.Text = score_player1.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                        else if (player == 0)
-                        {
-                            score_player2++;
-
-                            MessageBox.Show("Победил Игрок 2!");
-
-                            label8.Text = score_player2.ToString();
-
-                            ButtonEnabled_False();
-                        }
-                    }
-                }
-            }
             num = 0;
+            
         }
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\C#\\Tic-Tac-Toe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F88AFBF6-2E45-45EC-8544-E15086B0B521}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|c:\\users\\user\\source\\repos\\c#\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88AFBF6-2E45-45EC-8544-E15086B0B521}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F88AFBF6-2E45-45EC-8544-E15086B0B521}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|c:\\users\\user\\source\\repos\\c#\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F88AFBF6-2E45-45EC-8544-E15086B0B521}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form1.cs",
+              "RelativeDocumentMoniker": "Tic-Tac-Toe\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\C#\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form1.cs",
+              "RelativeToolTip": "Tic-Tac-Toe\\Form1.cs",
+              "ViewState": "AQIAALkBAAAAAAAAAAAAAM8BAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:24:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\C#\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form1.cs",
               "RelativeDocumentMoniker": "Tic-Tac-Toe\\Form1.cs",

@@ -9,3 +9,7 @@ C:\Users\user\source\repos\C#\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
 C:\Users\user\source\repos\C#\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
 C:\Users\user\source\repos\C#\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
 C:\Users\user\source\repos\C#\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Rules.resources
+C:\Users\user\source\repos\C#\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.manifest
+C:\Users\user\source\repos\C#\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.application
+C:\Users\user\source\repos\C#\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe.manifest
+C:\Users\user\source\repos\C#\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.application
